@@ -1,0 +1,20 @@
+
+body {
+    background-color: #0f2027;
+    display: flex;
+    font-family: monospace;
+    flex-direction: column;
+    color: white;
+    justify-content: center;
+    align-items: center;
+}
+
+img {
+    width: 140px;
+
+}
+
+ul {
+    background-color: black;
+    width: 80px;
+}
